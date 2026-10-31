@@ -41,7 +41,6 @@
 
 
 <p>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex.svg" height="48" alt="Codex" />  
 <img src="https://devicons.io/devicons/icons/claude-code.svg" height="48" alt="Claude Code" />
 </p>
 <div align="center">
