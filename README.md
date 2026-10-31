@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pushkincode/pushkincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aleksandr Pushkin
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark&perline=10" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark&perline=10" />
+
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=py,nodejs,fastapi,postman&theme=dark&perline=10" />
+
+
+
+### Databases & Caching
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql&theme=dark&perline=10" />
+
+
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx,cloudflare,vercel&theme=dark&perline=10" />
+
+
+### Monitoring & Reliability
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark&perline=10" />
+
+
+
+### AI & Agents
+
+
+<p>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex.svg" height="48" alt="Codex" />  
+<img src="https://devicons.io/devicons/icons/claude-code.svg" height="48" alt="Claude Code" />
+</p>
+<div align="center">
+
+</div>
